@@ -1,0 +1,14 @@
+{
+  "name": "WASD Keychain",
+  "vendorId": "0xFEF5",
+  "productId": "0x0005",
+  "keycodes": ["qmk_lighting"],
+  "menus": ["qmk_rgblight"],
+  "matrix": { "rows": 2, "cols":3 },
+  "layouts": {
+    "keymap": [
+      [{"x":0.75},"0,1"],
+      ["1,0","1,1","1,2"]
+    ]
+  }
+}
