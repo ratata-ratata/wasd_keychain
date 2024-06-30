@@ -2,8 +2,7 @@
   "name": "WASD Keychain",
   "vendorId": "0xFEF5",
   "productId": "0x0005",
-  "keycodes": ["qmk_lighting"],
-  "menus": ["qmk_rgblight"],
+  "lighting":"qmk_rgblight",
   "matrix": { "rows": 2, "cols":3 },
   "layouts": {
     "keymap": [
